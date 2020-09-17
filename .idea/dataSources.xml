@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ramadan" uuid="08758332-869e-48a6-9e6a-d6ca231ac6f8">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\projects\mabrur\Python\Namoz_Vaqt_Bot\ramadan.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
